@@ -1,0 +1,31 @@
+{
+    "name": "eureka-plotCar",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "pxt-mbit-more-v2": "github:yokobond/pxt-mbit-more-v2#0.2.0",
+        "pxt-plotcar": "github:hokarimasahiro/pxt-plotcar#a028c388f547feccc16eeb83d68b57b1d2bc551f",
+        "pxt-watchfont": "github:hokarimasahiro/pxt-watchfont#d5e3bf68305bc0ea0b17a19000a6f7f340f7f792"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v3.0.67",
+        "tag": "v3.0.67",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/b1dd6c3bcb9b2df57dfdd0bc4442971d81a1859d",
+        "target": "4.0.6",
+        "pxt": "6.0.39",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
